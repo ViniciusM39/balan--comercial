@@ -1,14 +1,14 @@
-.titulo{
- text-align: center;
- font-size: 2.5rem;
-  margin: 0;
-   padding: 2rem 0;
-font-family: Arial, Helvetica, sans-serif;
+.titulo {
+    text-align: center;
+    font-size: 2.5rem;
+    margin: 0;
+    padding: 2rem 0;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 body {
     margin: 0;
-    font-family:"Roboto" Arial, sans-serif;
+    font-family: "Roboto", Arial, sans-serif;
 }
 
 .info-card {
@@ -18,23 +18,24 @@ body {
     margin: 2rem auto;
     padding: 1.5rem;
     max-width: 600px;
-
+    color: aliceblue;
+    font-family: sans-serif;
+    font-size: 19px;
 }
+
 .card-text {
     font-size: 19px;
     color: aliceblue;
     margin: 0;
     font-family: sans-serif;
 }
-.vini{
-   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-   margin-top: 35px;
-   margin-left: 50px;
-      position: relative;
-   
 
+.vini {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 35px;
+    margin-left: 50px;
+    position: relative;
 }
-
 
 .imagem {
     display: block;
@@ -42,6 +43,61 @@ body {
     height: auto;
     margin: 0 auto;
     border-radius: 50px;
+}
 
+.comofunciona {
+    font-family: Arial, sans-serif;
+    margin-left: 45px;
+    font-size: 17px;
+    margin-top: 2rem;
+}
 
+.oi {
+   margin-left:45px ;
+    font-size: 17px;
+    margin-top: 2rem;
+}
+.chewie{
+  background-color: #6775f8;
+    border-radius: 10px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+    margin: 2rem auto;
+    padding: 1.5rem;
+    max-width: 600px;
+    color: aliceblue;
+    font-family: sans-serif;
+    font-size: 19px;
+}
+.bond{
+   background-color: #6775f8;
+    border-radius: 10px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+    margin: 2rem auto;
+    padding: 1.5rem;
+    max-width: 600px;
+    color: aliceblue;
+    font-family: sans-serif;
+    font-size: 19px;
+}
+.sabo{
+    background-color: #6775f8;
+    border-radius: 10px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+    margin: 2rem auto;
+    padding: 1.5rem;
+    max-width: 600px;
+    color: aliceblue;
+    font-family: sans-serif;
+    font-size: 19px;
+
+}
+.suco{
+    margin-left:45px ;
+    font-size: 17px;
+    margin-top: 2rem;
+}
+
+#exportacao{
+   float: right;
+margin: 10px;
 }
